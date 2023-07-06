@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/awslabs/goformation/master/schema/cloudformation.schema.json": "file:///Users/chris.gibson/git/softrams/github/iac-org/cloudformation-CloudStorageSec-Console/CloudStorageSec-Console.cform",
+        "https://json.schemastore.org/github-issue-config.json": "file:///home/chris/git/gibby/docker-UnifiBrowser/.github/ISSUE_TEMPLATE/config.yml"
+    }
+}
